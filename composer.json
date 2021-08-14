@@ -1,0 +1,18 @@
+{
+    "name": "augustowebd/pharlab",
+    "description": "demonstração de uso de phar para libs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "augustowebd",
+            "email": "augustowebd@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Augustowebd\\Pharlab\\": "src/"
+        }
+    },
+    "require": {}
+}
